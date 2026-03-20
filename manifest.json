@@ -27,6 +27,24 @@
         "blob/b5b7aadb959617ae58e24139c783f8c52f33ae82.nq.gz",
         "blob/c40a9bbeff7d6fc482af4fd1713e46c16aa9f345.nq.gz",
         "blob/95cc6237a573c57973c9e614e8c2b251cd6f4f11.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/c5ea2f5760654731de49bb55bd7ca9f7e2e01b17.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/c5ea2f5760654731de49bb55bd7ca9f7e2e01b17.nq.gz",
+      "repolex": "aggregate/repolex/c5ea2f5760654731de49bb55bd7ca9f7e2e01b17.nq.gz",
+      "dep": "dep/c5ea2f5760654731de49bb55bd7ca9f7e2e01b17.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytomlpp",
+          "githubOrg": "bobfang1992",
+          "githubRepo": "pytomlpp"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        }
       ]
     },
     {
