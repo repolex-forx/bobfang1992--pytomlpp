@@ -226,11 +226,19 @@
       "dep": "dep/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz",
       "dependencies": [
         {
+<<<<<<< Updated upstream
           "packageName": "pybind11",
           "packageVersion": "3.0.2",
           "githubOrg": "pybind",
           "githubRepo": "pybind11",
           "githubCommit": "45fab4087eaaff234227a10cf7845e8b07f28a98"
+=======
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+>>>>>>> Stashed changes
         },
         {
           "packageName": "pytomlpp",
@@ -240,11 +248,19 @@
           "githubCommit": "8d8d055ef9f3061d49aac4e6c5a7647dbed8d69f"
         },
         {
+<<<<<<< Updated upstream
           "packageName": "pytest",
           "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest",
           "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+=======
+          "packageName": "pybind11",
+          "packageVersion": "3.0.2",
+          "githubOrg": "pybind",
+          "githubRepo": "pybind11",
+          "githubCommit": "45fab4087eaaff234227a10cf7845e8b07f28a98"
+>>>>>>> Stashed changes
         }
       ]
     }
