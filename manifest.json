@@ -172,8 +172,8 @@
     },
     {
       "commit": "541a2e7de6eb50d6489bbd3eec83bdc86ec540f0",
-      "parsed_at": "2026-03-21T02:58:34.754110+00:00",
-      "tag": "0.2.3",
+      "parsed_at": "2026-03-21T03:02:24.338119+00:00",
+      "tag": "0.2.4",
       "filetree": "filetree/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz",
       "blobs": [
         "blob/b58352aef1b51d0ff95badc0d8f748b68e2776e9.nq.gz",
