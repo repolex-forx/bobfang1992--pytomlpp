@@ -217,6 +217,35 @@
         "blob/2fcc4bc19481f1124675ad1a60f04fc541af3e8b.nq.gz",
         "blob/c40a9bbeff7d6fc482af4fd1713e46c16aa9f345.nq.gz",
         "blob/95cc6237a573c57973c9e614e8c2b251cd6f4f11.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz",
+      "repolex": "aggregate/repolex/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz",
+      "dep": "dep/541a2e7de6eb50d6489bbd3eec83bdc86ec540f0.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pybind11",
+          "packageVersion": "3.0.2",
+          "githubOrg": "pybind",
+          "githubRepo": "pybind11",
+          "githubCommit": "45fab4087eaaff234227a10cf7845e8b07f28a98"
+        },
+        {
+          "packageName": "pytomlpp",
+          "packageVersion": "1.1.0",
+          "githubOrg": "bobfang1992",
+          "githubRepo": "pytomlpp",
+          "githubCommit": "8d8d055ef9f3061d49aac4e6c5a7647dbed8d69f"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        }
       ]
     }
   ],
